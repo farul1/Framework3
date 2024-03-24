@@ -13,9 +13,10 @@
     <div class="container m-5">
         <h1>Belajar Laravel Routing</h1>
         <div class="list-group list-group-numbered mt-4">
-        <a href="{{ url('/cloning') }}" class="list-group-item list-group-item-action">
-            <b>Tugas (Bootstrap Clone)</b>
-        </a>
+            <a href="{{ url('/cloning') }}" class="list-group-item list-group-item-action" style="color: blue;">
+                <b>Tugas (Bootstrap Clone)</b>
+            </a>
+        </div>
         <div class="list-group list-group-numbered mt-4">
             {{-- Kode anda selanjutnya letakkan di sini --}}
 
